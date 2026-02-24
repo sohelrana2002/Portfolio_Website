@@ -48,4 +48,3 @@ The website is developed using:
 
 ---
 
-## 📁 Project Structure
